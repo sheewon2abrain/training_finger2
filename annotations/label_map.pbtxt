@@ -1,0 +1,15 @@
+item {
+    id: 1
+    name: 'fingerprint'
+}
+
+item {
+    id: 2
+    name: 'addr_text'
+}
+
+item {
+    id: 3
+    name: 'jumin_photo'
+}
+
